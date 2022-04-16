@@ -16,16 +16,6 @@
 	<!--Contenido-->
 
 
-	<?php
-		include('SubDir/Indice/playList.php');
-	?>
-	<button onClick="back()">
-    BACK
-	</button>
-	<button onClick="next()">
-    NEXT
-	</button>
-
 
 
 <script type="text/javascript" src="Reusar/JavaScript/PlayList.js"></script>
